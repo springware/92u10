@@ -1,4 +1,4 @@
-# lxxk_9.2u10
 
-1.upload over
-2.try make build.(ongoing)
+1.lxxk_9.2u10
+2.upload over
+3.make build.(ongoing)
